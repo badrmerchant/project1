@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>gesture1</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="gesture1.css" rel="stylesheet" />
+    <script src="gesture1.js"></script>
+</head>
+<body>
+    <div id="eventDisplayTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="eventDisplay">
+        <div class="eventDetail" data-win-bind="innerText: type"></div>
+        <div class="primaryDetail"
+        data-win-bind="innerText: detail data.holdConverter"></div>
+        </div>
+    </div>
+
+    <div id="pointerEventsContainer" class="container">
+        <div id="sourceElements" class="panel">
+            <div id="targetElem" class="coloredRect">
+                Gestures
+            </div>
+        </div>
+        <div id="eventListContainer" class="panel">
+            <div id="eventList" data-win-control="WinJS.UI.ListView"
+                data-win-options="{
+                        itemTemplate:select('#eventDisplayTemplate'),
+                        layout: {type: WinJS.UI.ListLayout},
+                        itemDataSource: data.eventList.dataSource,
+                        }">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+    

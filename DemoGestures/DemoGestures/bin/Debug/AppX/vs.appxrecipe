@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZEESHANHANIF</Machine>
+    <WindowsUser>zeeshan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5371EBCC928C4183BAE5A50FD49DFA0B2902C84A336933FEE9E162BE46B9C676</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cbd797e2-f7d6-414d-813d-632466c35608_1.0.0.0_neutral__9c6a5cgkaf456</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cbd797e2-f7d6-414d-813d-632466c35608_9c6a5cgkaf456!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cbd797e2-f7d6-414d-813d-632466c35608</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zeeshan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-24T12:24:49.155</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-02-23T20:27:31.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture1\gesture1.css">
+      <PackagePath>pages\gesture1\gesture1.css</PackagePath>
+      <Modified>2013-02-23T20:05:06.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture3\gesture3.css">
+      <PackagePath>pages\gesture3\gesture3.css</PackagePath>
+      <Modified>2013-02-23T21:36:46.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture4\gesture4.css">
+      <PackagePath>pages\gesture4\gesture4.css</PackagePath>
+      <Modified>2013-02-23T22:01:20.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture5\gesture5.css">
+      <PackagePath>pages\gesture5\gesture5.css</PackagePath>
+      <Modified>2013-02-23T22:09:57.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture6\gesture6.css">
+      <PackagePath>pages\gesture6\gesture6.css</PackagePath>
+      <Modified>2013-02-24T11:58:07.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture7\gesture7.css">
+      <PackagePath>pages\gesture7\gesture7.css</PackagePath>
+      <Modified>2013-02-24T12:24:09.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-02-23T19:40:47.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\images\gesture4.jpg">
+      <PackagePath>images\gesture4.jpg</PackagePath>
+      <Modified>2012-02-05T09:55:30.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T19:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-02-23T19:40:47.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-02-23T19:40:47.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture1\gesture1.js">
+      <PackagePath>pages\gesture1\gesture1.js</PackagePath>
+      <Modified>2013-02-23T21:05:29.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture3\gesture3.js">
+      <PackagePath>pages\gesture3\gesture3.js</PackagePath>
+      <Modified>2013-02-23T21:43:27.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture4\gesture4.js">
+      <PackagePath>pages\gesture4\gesture4.js</PackagePath>
+      <Modified>2013-02-23T21:49:45.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture5\gesture5.js">
+      <PackagePath>pages\gesture5\gesture5.js</PackagePath>
+      <Modified>2013-02-23T22:12:56.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture6\gesture6.js">
+      <PackagePath>pages\gesture6\gesture6.js</PackagePath>
+      <Modified>2013-02-24T12:16:07.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture7\gesture7.js">
+      <PackagePath>pages\gesture7\gesture7.js</PackagePath>
+      <Modified>2013-02-24T13:24:58.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-02-24T12:24:43.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture1\gesture1.html">
+      <PackagePath>pages\gesture1\gesture1.html</PackagePath>
+      <Modified>2013-02-23T21:06:12.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture3\gesture3.html">
+      <PackagePath>pages\gesture3\gesture3.html</PackagePath>
+      <Modified>2013-02-23T21:37:26.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture4\gesture4.html">
+      <PackagePath>pages\gesture4\gesture4.html</PackagePath>
+      <Modified>2013-02-23T22:01:56.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture5\gesture5.html">
+      <PackagePath>pages\gesture5\gesture5.html</PackagePath>
+      <Modified>2013-02-23T22:10:39.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture6\gesture6.html">
+      <PackagePath>pages\gesture6\gesture6.html</PackagePath>
+      <Modified>2013-02-24T12:00:23.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gesture7\gesture7.html">
+      <PackagePath>pages\gesture7\gesture7.html</PackagePath>
+      <Modified>2013-02-24T12:25:26.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\gestures2\Manipulations.html">
+      <PackagePath>pages\gestures2\Manipulations.html</PackagePath>
+      <Modified>2013-02-23T21:28:15.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-02-24T12:24:27.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-02-23T19:40:47.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zeeshan\Desktop\251\DemoGestures\DemoGestures\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-24T12:24:49.007</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

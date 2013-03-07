@@ -1,0 +1,12 @@
+﻿.gesture4 p {
+    margin-left: 120px;
+}
+#contentZoom {
+overflow: scroll;
+-ms-content-zooming: zoom;
+-ms-content-zoom-limit-min: 50%;
+-ms-content-zoom-limit-max: 200%;
+-ms-overflow-style: -ms-autohiding-scrollbar;
+-ms-content-zoom-snap-points: snapList(50%, 75%, 100%, 200%);
+-ms-content-zoom-snap-type: mandatory;
+}
